@@ -17,11 +17,12 @@ View Task: view all the task
 Task Limit: The application supports a maximum of 8 tasks to help you stay focused on what's important.
 
 
-## 🚀 Local Setup
+## 🚀 Setup It Locally
 Ensure you have Python 3 installed on your system.
 Clone or download the repository to your local machine.
 
 ```bash
 git clone https://github.com/DivyaKodimella/ToDo-App.git
 python main.py
+
 ```
